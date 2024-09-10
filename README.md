@@ -10,5 +10,4 @@ Overall Analysis:
 2. Mulia Sujiastuti W Two years ago, Data Science Job Salaries, Data Science Job Salaries Analysis with Python, https://www.kaggle.com/code/muliasujiastuti/data-science-job-salaries-analysis-with-python/input.
 =======
 # Project-1---Group-13
-kalan here
->>>>>>> kalsun
+
